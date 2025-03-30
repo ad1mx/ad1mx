@@ -6,6 +6,31 @@ Hi, I’m Adam, a passionate full-stack web developer and UI/UX designer with ov
 
 ---
 
+## 🛠️ Tech Stack  
+### **Frontend**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![shadcn/ui](https://img.shields.io/badge/shadcn/UI-000000?style=for-the-badge&logo=radix-ui&logoColor=white)  
+
+### **Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+
+### **Tools & DevOps**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=gnome-terminal&logoColor=white)  
+
+### **Design & UI/UX**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)  
+
+---
+
 ## 🚀 Why Choose Me?  
 - 🔧 **Strong Technical Expertise:** Proficient in **Next.js, React.js, Tailwind CSS, Node.js, MongoDB**, and more.  
 - 🚀 **Full-Stack Solutions:** Capable of handling both **front-end and back-end development** for seamless integration.  
