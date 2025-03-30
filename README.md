@@ -26,8 +26,8 @@ Let’s collaborate to bring your ideas to life! 🚀 Whether you’re building 
 
 ## 📌 Featured Projects  
 🚀 **[My Portfolio](https://www.ad1m.xyz/)** – A showcase of my work, skills, and experience  
-📂 **[Project 1](https://github.com/ad1mx/project-1)** – Short description of the project  
-🔗 **[Project 2](https://github.com/ad1mx/project-2)** – Another cool project  
+<!-- 📂 **[Project 1](https://github.com/ad1mx/project-1)** – Short description of the project -->
+<!-- 🔗 **[Project 2](https://github.com/ad1mx/project-2)** – Another cool project -->
 
 ---
 
