@@ -54,6 +54,30 @@ Let’s collaborate to bring your ideas to life! 🚀 Whether you’re building 
 
 ---
 
+## 📈 GitHub Stats  
+
+<div align="center">
+  
+  <a href="https://github.com/ad1mx">
+    <img src="https://github-readme-stats.vercel.app/api?username=ad1mx&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
+  </a>
+  
+  <a href="https://github.com/ad1mx">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ad1mx&theme=radical&hide_border=true" width="49%" />
+  </a>
+  
+  <a href="https://github.com/ad1mx">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ad1mx&layout=compact&theme=radical&hide_border=true" width="49%" />
+  </a>
+  
+  <a href="https://github.com/ad1mx">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ad1mx&theme=radical" width="99%" />
+  </a>
+  
+</div>
+
+---
+
 ## 📫 Connect with Me  
 📧 Email: your@email.com  
 💼 [Upwork](https://www.upwork.com/freelancers/~yourprofile)  
