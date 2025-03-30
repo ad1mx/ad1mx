@@ -63,10 +63,6 @@ Let’s collaborate to bring your ideas to life! 🚀 Whether you’re building 
   </a>
   
   <a href="https://github.com/ad1mx">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ad1mx&theme=radical&hide_border=true" width="49%" />
-  </a>
-  
-  <a href="https://github.com/ad1mx">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ad1mx&layout=compact&theme=radical&hide_border=true" width="49%" />
   </a>
   
